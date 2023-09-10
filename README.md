@@ -10,4 +10,4 @@ To run the tests in the notebook, follow these steps:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/newsie-test-repo.git
+   
